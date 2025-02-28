@@ -1,0 +1,12 @@
+kagglehub==0.3.8       # Kaggle API client library
+numpy==1.24.3          # Numerical computations
+pandas==1.5.3          # Data manipulation and analysis
+matplotlib==3.7.1      # Data visualization
+seaborn==0.12.2        # Statistical data visualization
+#scipy==1.10.1          # Scientific computing and statistics
+#scikit-learn==1.2.2    # Machine learning and data preprocessing
+#statsmodels==0.14.0    # Statistical modeling and hypothesis testing
+#plotly==5.15.0         # Interactive visualizations
+#dask==2023.2.0         # Parallel computing for large datasets
+#polars==0.17.3         # High-performance alternative to pandas
+#xgboost==1.7.6         # Gradient boosting for machine learning
