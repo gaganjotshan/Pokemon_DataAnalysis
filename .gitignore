@@ -68,6 +68,9 @@ instance/
 
 packages.txt
 
+# folders
+/data/
+/secret/
 
 # Sphinx documentation
 docs/_build/

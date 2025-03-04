@@ -1,9 +1,11 @@
+ipykernel==7.23.1       # IPython kernel for Jupyter
 kaggle==1.6.17         # Kaggle API client library
 kagglehub==0.3.8       # Kaggle API client library
 numpy==1.24.3          # Numerical computations
 pandas==1.5.3          # Data manipulation and analysis
 matplotlib==3.7.1      # Data visualization
 seaborn==0.12.2        # Statistical data visualization
+dash==2.18.2           # Web application framework
 #scipy==1.10.1          # Scientific computing and statistics
 #scikit-learn==1.2.2    # Machine learning and data preprocessing
 #statsmodels==0.14.0    # Statistical modeling and hypothesis testing
